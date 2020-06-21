@@ -1,0 +1,33 @@
+#score1, #score2 {
+    font-size:125px;
+}
+
+.btn{
+    border-radius: 0;
+    border: none;
+}
+
+#b1plus, #b1minus, #b2plus, #b2minus, #bReset {
+    background:black;
+    border: none;
+}
+
+.container {
+    max-width: 90%;
+    width: auto;
+    margin: auto;
+    margin-top: 5%;
+}
+
+#number_input{
+    border-radius:0;
+    border-color: transparent;
+}
+
+input {
+    text-align: center;
+}
+
+.fas.fa-trophy{
+    color:gold;
+}
